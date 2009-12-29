@@ -1,0 +1,5 @@
+#summary Bookmarklet problems with IE
+
+  * Maximum "URL" length (2kb)
+  * Very buggy support for HTML5
+  * No easy way to actually drag'n'drop the bookmarklet
